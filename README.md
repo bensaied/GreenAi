@@ -1,5 +1,5 @@
 # GreenAI
-...
+..
 Welcome to the GreenAI ! blockchain-based app rewarding users with GreenCoins for planting trees and reducing carbon emissions, turning eco-friendly actions into valuable carbon credits.
 
 This guide walks you through the setup, deployment, and interaction with the GreenAI application.
